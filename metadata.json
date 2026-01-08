@@ -1,0 +1,7 @@
+{
+  "name": "Velocity VIP Concierge",
+  "description": "A high-end, nationwide luxury chauffeur and concierge service offering precision transportation and elite travel management across the United States.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
